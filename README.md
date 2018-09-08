@@ -12,5 +12,5 @@
 
 
 # 實際DEMO
-![DEMO](‪https://github.com/qwertad/Deep-learning-intern_project/blob/master/readme_pic/ffff.JPG)
+![DEMO](https://github.com/qwertad/Deep-learning-intern_project/blob/master/images/ffff.JPG)
  
