@@ -9,4 +9,8 @@
 # 後端API以及前端DEMO用UI (final_project)
 * [後端(PYTHON FLASK)](https://github.com/qwertad/Deep-learning-intern_project/blob/master/final_project/app.py)
 * 前段(JS)
+
+
+# 實際DEMO
+[DEMO圖片](‪C:\Users\USER\Desktop\ffff.JPG)
  
