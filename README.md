@@ -13,4 +13,6 @@
 
 # 實際DEMO
 ![DEMO](https://github.com/qwertad/Deep-learning-intern_project/blob/master/images/ffff.JPG)
+
+## 使用上就是上傳照片後,檔案經由後端flask 包好的python deep learning model 判斷出拍到哪些東西,並回傳結果到ui顯現給使用者 
  
